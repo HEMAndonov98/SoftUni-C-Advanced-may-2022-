@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SumMatrixElements", "1.SumMatrixElements\1.SumMatrixElements.csproj", "{46E149C9-33AD-487A-9BAD-10748387D8A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SumMatrixColumns", "2.SumMatrixColumns\2.SumMatrixColumns.csproj", "{ECBB9579-0EED-4DDD-845E-2EAF8C6D91A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.PrimaryDiagonal", "3.PrimaryDiagonal\3.PrimaryDiagonal.csproj", "{796E5107-C64E-411A-BE0F-8AD93E5C6648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.SymbolInMatrix", "4.SymbolInMatrix\4.SymbolInMatrix.csproj", "{15F89B9C-052F-4410-B502-F08C8A8FDA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.SquareWithMaximumSum", "5.SquareWithMaximumSum\5.SquareWithMaximumSum.csproj", "{046C0FFA-B852-405E-872B-86C2DDC058A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.JaggedArrayModification", "6.JaggedArrayModification\6.JaggedArrayModification.csproj", "{6FA99783-6124-4E2C-8080-84793BF39B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.PascalTriangle", "7.PascalTriangle\7.PascalTriangle.csproj", "{825799B8-52E9-4A6C-A19A-DE5F2A9452DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E149C9-33AD-487A-9BAD-10748387D8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E149C9-33AD-487A-9BAD-10748387D8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E149C9-33AD-487A-9BAD-10748387D8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E149C9-33AD-487A-9BAD-10748387D8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBB9579-0EED-4DDD-845E-2EAF8C6D91A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBB9579-0EED-4DDD-845E-2EAF8C6D91A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBB9579-0EED-4DDD-845E-2EAF8C6D91A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBB9579-0EED-4DDD-845E-2EAF8C6D91A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796E5107-C64E-411A-BE0F-8AD93E5C6648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796E5107-C64E-411A-BE0F-8AD93E5C6648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796E5107-C64E-411A-BE0F-8AD93E5C6648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796E5107-C64E-411A-BE0F-8AD93E5C6648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F89B9C-052F-4410-B502-F08C8A8FDA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F89B9C-052F-4410-B502-F08C8A8FDA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F89B9C-052F-4410-B502-F08C8A8FDA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F89B9C-052F-4410-B502-F08C8A8FDA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046C0FFA-B852-405E-872B-86C2DDC058A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046C0FFA-B852-405E-872B-86C2DDC058A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046C0FFA-B852-405E-872B-86C2DDC058A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046C0FFA-B852-405E-872B-86C2DDC058A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA99783-6124-4E2C-8080-84793BF39B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA99783-6124-4E2C-8080-84793BF39B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA99783-6124-4E2C-8080-84793BF39B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA99783-6124-4E2C-8080-84793BF39B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825799B8-52E9-4A6C-A19A-DE5F2A9452DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825799B8-52E9-4A6C-A19A-DE5F2A9452DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825799B8-52E9-4A6C-A19A-DE5F2A9452DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825799B8-52E9-4A6C-A19A-DE5F2A9452DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16ED8592-1CC6-470A-96F1-A5CC6E575307}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal
