@@ -21,12 +21,15 @@
         public static void ZipFileToArchive(string inputFilePath, string zipArchiveFilePath)
         {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             using (var source = new FileStream(inputFilePath, FileMode.Open, FileAccess.ReadWrite))
             {
                 using (var archive = new ZipArchive(source, ZipArchiveMode.Create))
                 {
                     archive.CreateEntry(source.Name);
 =======
+=======
+>>>>>>> Stashed changes
             using (var source = new FileStream(inputFilePath, FileMode.Open, FileAccess.Read))
             {
                 if (File.Exists(zipArchiveFilePath))
@@ -35,6 +38,9 @@
                 using (var archive = ZipFile.Open(zipArchiveFilePath, ZipArchiveMode.Create))
                 {
                     archive.CreateEntryFromFile(source.Name, Path.GetFileName(source.Name));
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 }
             }
@@ -42,9 +48,12 @@
 
         public static void ExtractFileFromArchive(string zipArchiveFilePath, string fileName, string outputFilePath)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         {
             throw new NotImplementedException();
 =======
+=======
+>>>>>>> Stashed changes
         {           
                 using (var archive = ZipFile.OpenRead(zipArchiveFilePath))
                 {
@@ -53,6 +62,9 @@
                         entry.ExtractToFile(outputFilePath);
                     }
                 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         }
     }
