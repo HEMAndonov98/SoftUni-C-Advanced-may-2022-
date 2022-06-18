@@ -120,7 +120,7 @@ namespace CarManufacturer
         }
         public string WhoAmI()
         {
-            return $"Make: {this._make}\nModel: {this._model}\nYear: {this._year}\nHorsePowers: {this._engine.HorsePower}\nFuelQuantity: {this._fuelQty:F1}";
+            return $"Make: {this._make}\nModel: {this._model}\nYear: {this._year}\nHorsePowers: {this._engine.HorsePower}\nFuelQuantity: {this._fuelQty}";
         }
     }
 }
