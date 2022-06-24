@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1703.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingList", "ImplementingList\ImplementingList.csproj", "{D2CEC32F-A28D-49BB-BA4B-0AA5740165EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementCustomStack", "ImplementCustomStack\ImplementCustomStack.csproj", "{D33FB8D7-8B21-499E-8310-3EE08925EE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingCustomQueue", "ImplementingCustomQueue\ImplementingCustomQueue.csproj", "{9FC7C237-8FA7-45D0-A20F-DBEF12FB1917}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D2CEC32F-A28D-49BB-BA4B-0AA5740165EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2CEC32F-A28D-49BB-BA4B-0AA5740165EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2CEC32F-A28D-49BB-BA4B-0AA5740165EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33FB8D7-8B21-499E-8310-3EE08925EE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33FB8D7-8B21-499E-8310-3EE08925EE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33FB8D7-8B21-499E-8310-3EE08925EE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33FB8D7-8B21-499E-8310-3EE08925EE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC7C237-8FA7-45D0-A20F-DBEF12FB1917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC7C237-8FA7-45D0-A20F-DBEF12FB1917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC7C237-8FA7-45D0-A20F-DBEF12FB1917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC7C237-8FA7-45D0-A20F-DBEF12FB1917}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
