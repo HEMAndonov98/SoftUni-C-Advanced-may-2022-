@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileMaster", "TileMaster\Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.WallDestroyer", "2.WallDestroyer\2.WallDestroyer.csproj", "{F7AF8DFD-B613-4172-8C22-A7BB639E9ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renovators", "..\..\..\..\Users\hristoandonov\Downloads\03. Renovators_Skeleton\Renovators.csproj", "{959344DC-2619-423B-9289-30833FF46E8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renovators", "3.Renovators\Renovators.csproj", "{1E5BC289-BECE-41D5-A09C-8BCB900ACB28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{F7AF8DFD-B613-4172-8C22-A7BB639E9ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7AF8DFD-B613-4172-8C22-A7BB639E9ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7AF8DFD-B613-4172-8C22-A7BB639E9ECF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{959344DC-2619-423B-9289-30833FF46E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{959344DC-2619-423B-9289-30833FF46E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{959344DC-2619-423B-9289-30833FF46E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{959344DC-2619-423B-9289-30833FF46E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5BC289-BECE-41D5-A09C-8BCB900ACB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5BC289-BECE-41D5-A09C-8BCB900ACB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5BC289-BECE-41D5-A09C-8BCB900ACB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5BC289-BECE-41D5-A09C-8BCB900ACB28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
