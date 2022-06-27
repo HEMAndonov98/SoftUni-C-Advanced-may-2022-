@@ -2,7 +2,7 @@
 
 namespace IteratorsAndComparators
 {
-    class StartUp
+    public class StartUp
     {
         static void Main()
         {

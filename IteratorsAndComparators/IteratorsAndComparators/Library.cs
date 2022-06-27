@@ -29,7 +29,7 @@ namespace IteratorsAndComparators
         IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 
         //This is the method using a custom iterator
-        public class LibraryIterator : IEnumerator<Book> 
+        public  class LibraryIterator : IEnumerator<Book> 
         {
 
         private readonly List<Book> books;
@@ -52,8 +52,8 @@ namespace IteratorsAndComparators
         public bool MoveNext() => ++this.index < this.books.Count;
 
         public void Reset() => this.index = -1;
+        }
     }
-}
 
 }
 
