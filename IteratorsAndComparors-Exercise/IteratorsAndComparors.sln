@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ListyIterator", "1.ListyIterator\1.ListyIterator.csproj", "{C15E9488-CB85-4BE8-B0E1-33867A22185D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Stack", "3.Stack\3.Stack.csproj", "{F28A2F3E-831E-4F70-A4EA-730BA38DB018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Froggy", "4.Froggy\4.Froggy.csproj", "{7F7D3828-B223-465F-BF35-E646D23C499C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C15E9488-CB85-4BE8-B0E1-33867A22185D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15E9488-CB85-4BE8-B0E1-33867A22185D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15E9488-CB85-4BE8-B0E1-33867A22185D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15E9488-CB85-4BE8-B0E1-33867A22185D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28A2F3E-831E-4F70-A4EA-730BA38DB018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28A2F3E-831E-4F70-A4EA-730BA38DB018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28A2F3E-831E-4F70-A4EA-730BA38DB018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28A2F3E-831E-4F70-A4EA-730BA38DB018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7D3828-B223-465F-BF35-E646D23C499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7D3828-B223-465F-BF35-E646D23C499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7D3828-B223-465F-BF35-E646D23C499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7D3828-B223-465F-BF35-E646D23C499C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8010F20C-91BC-4EC5-B933-6084E68F4E8B}
+	EndGlobalSection
+EndGlobal
