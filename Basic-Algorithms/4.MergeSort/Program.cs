@@ -30,10 +30,10 @@ namespace _4.MergeSort
             Array.Copy(aux, left, leftArr, 0, mid - left + 1);
             Array.Copy(aux, mid + 1, rightArr, 0, right - mid);
 
-            int i = 0;
-            int j = 0;
+            int i = 0; //left array index
+            int j = 0; //right array index
 
-            for (int k = left; k <= right; k++)
+            for (int k = left; k <= right; k++) //k is the main array index
             {
                 if (i == leftArr.Length)
                 {
